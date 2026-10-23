@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "yoru 体験デモ",
+  "short_name": "yoru",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#141020",
+  "theme_color": "#141020",
+  "icons": [
+    {
+      "src": "./icons/yoru-moon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/yoru-moon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

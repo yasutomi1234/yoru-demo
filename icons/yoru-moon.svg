@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="15" fill="#141020"/>
+  <g transform="translate(10 10) scale(1.8333333333)" fill="none" stroke="#e8b3e4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Existing yoru Moon mark, from Lucide (ISC license). -->
+    <path d="M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401"/>
+  </g>
+</svg>
